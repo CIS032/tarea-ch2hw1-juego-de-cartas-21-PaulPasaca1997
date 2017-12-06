@@ -1,0 +1,33 @@
+﻿Bienvenido al juego de Blackjack.
+Tu tienes 100 dolares.¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+50
+Tu tienes 50 dolares.¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+0
+Te vas con $50.
+Bienvenido al juego de Blackjack.
+Tu tienes 100 dolares.¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+100
+¡Parece que te has quedado sin dinero!
+
+Te vas con $0.
+Tus cartas son: 
+    10 de Espadas
+    2 de Diamantes
+Su total es12
+El concesionario está mostrando el 4 de Diamantes
+¿Pulse (H) o Pararse (S)? 
+S
+n
+Usuario parado.
+Las cartas del distribuidor son
+    4 de Diamantes
+    Rey de Espadas
+El distribuidor golpea y obtiene el 5 de Diamantes
+El total del repartidor es 19
+El repartidor gana, 19 puntos a 12.
+Bienvenido al juego de Blackjack.
+Tu tienes 100 dolares.¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+80
+Tu tienes 20 dolares.¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+0
+Te vas con $20.
